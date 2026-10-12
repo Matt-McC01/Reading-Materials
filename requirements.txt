@@ -1,0 +1,5 @@
+# Packages imported by the study notebooks, plus the local notebook interface.
+numpy
+matplotlib
+scipy
+jupyterlab
